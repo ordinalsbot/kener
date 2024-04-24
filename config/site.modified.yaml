@@ -1,0 +1,36 @@
+title: "OrdinalsBot Status Page"
+home: "/"
+logo: "/favicon.png"
+github:
+  owner: "OrdinalsBot"
+  repo: "kener"
+  incidentSince: 48
+metaTags:
+  description: "OrdinalsBot: We make it easy to inscribe ordinals. Like, really easy."
+  keywords: "bitcoin, ordinals, inscription, runes, brc20, inscription as a service, inscription API, tap protocol, trac protocol"
+  og:description: "OrdinalsBot: We make it easy to inscribe ordinals. Like, really easy."
+  og:image: "https://ordinalsbot.com/og-image.png"
+  og:title: "OrdinalsBot: We make it easy to inscribe ordinals. Like, really easy."
+  og:type: "website"
+  og:site_name: "OrdinalsBot"
+  twitter:card: "summary_large_image"
+  twitter:site: "@ordinalsbot"
+  twitter:creator: "@ordinalsbot"
+  twitter:image: "https://ordinalsbot.com/og-image.png"
+  twitter:title: "OrdinalsBot: We make it easy to inscribe ordinals. Like, really easy."
+  twitter:description: "OrdinalsBot: We make it easy to inscribe ordinals. Like, really easy."
+nav:
+  - name: "Homepage"
+    url: "https://ordinalsbot.com"
+  - name: "Discord Support"
+    url: "https://discord.ordinalsbot.com"
+hero:
+  title: OrdinalsBot Status Page
+  subtitle: "Realtime status and incident updates for OrdinalsBot."
+footerHTML: |
+  For more information, contact us on <a href="https://discord.ordinalsbot.com" target="_blank" rel="noreferrer" class="font-medium underline underline-offset-4">
+    Discord
+  </a> or check out our twitter <a href="https://twitter.com/ordinalsbot" target="_blank" rel="noreferrer" class="font-medium underline underline-offset-4">
+    @ordinalsbot
+  </a>.
+    
